@@ -13,7 +13,7 @@ You must be at least 13 years old to use our service and by creating an account,
 
 All content you submit, upload or release on “Forum Promotion” may be reviewed by our staff members. By Accepting our Terms of Service, you agree that anything you submit here may be sent to third-party verification services (including, but not limited to, spam prevention services). Any private or confidential information should not be submitted here.
 
-Your data is extremely important to us and we have a [Privacy Policy](/privacy/) which outlines everything related to your data. By accepting our Terms of Service, you also accept our [Privacy Policy](/privacy/).
+Your data is extremely important to us and we have a [Privacy Policy](https://forumpromotion.net/privacy/) which outlines everything related to your data. By accepting our Terms of Service, you also accept our [Privacy Policy](https://forumpromotion.net/privacy/).
 
 You agree not to use our service to submit or redirect to any content which breaks our rules as stated, but not limited, in the “Global Rules” below. You are solely responsible for the content you submit here and we take no responsibility for any offensive material you post. You may request your content to be removed or modified at any time. We may remove or modify any of your content at any time with or without your consent. We reserve the right to terminate your access to any parts of our service at any time with or without notice.
 
